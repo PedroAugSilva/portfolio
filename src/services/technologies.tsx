@@ -1,4 +1,3 @@
-import clsx from "clsx";
 import { FaReact } from "react-icons/fa";
 import {
   SiTypescript,
